@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-pngs-11:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/drawable_japanesecharhoriz.png.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/drawable/japanesecharhoriz.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/layout_activity_main.xml.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/drawable_ic_launcher_background.xml.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-release-15:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.codelabs.japanesecharacterclassifier.app-main-16:/mipmap-mdpi/ic_launcher.png"
+    }
+]
